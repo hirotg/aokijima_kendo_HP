@@ -9,7 +9,7 @@
 
     <body>
     <h1>青木島剣道少年団　指導者　ログイン</h1>
-    <form method="post" action="signup_check.php">
+    <form method="post" action="event.php">
         パスワードを入力してください<br>
         <input type="password" name="pass" size="50"><br>
         <input type="button" onclick="history.back()" value="戻る">
